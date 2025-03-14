@@ -18,7 +18,7 @@ Implementação e avaliação de um modelo de classificação e regressão utili
 
 *   Código Python da rede Neural
 *   Exemplos de uso para classificação e regressão.
-*   Avaliação do modelo com métricas relevantes (e.g., acurácia, erro quadrático médio).
+*   Avaliação do modelo com métricas relevantes.
 
 
 **Estrutura do Projeto:**
