@@ -30,6 +30,7 @@ Implementação e avaliação de um modelo de classificação e regressão utili
 
 
 **Conclusão**
+
 O perceptron multicamadas implementado demonstrou ser uma abordagem versátil para resolver problemas de classificação e regressão. A escolha da função de ativação e a configuração dos hiperparâmetros desempenham um papel fundamental no desempenho da rede.
 
 **Contato**
@@ -37,4 +38,5 @@ O perceptron multicamadas implementado demonstrou ser uma abordagem versátil pa
 * Renata Moura Barreto - [GitHub](https://github.com/renatamourab)
 
 **Licença**
+
 Este projeto é licenciado sob a Licença MIT.
